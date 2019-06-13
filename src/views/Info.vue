@@ -11,7 +11,7 @@ export default {
   store,
   data(){
     return{
-      msg:'hello world'
+      msg:'hell11o world1'
     }
   },
   mounted(){
